@@ -1,0 +1,22 @@
+{
+    "nome": "Thainara Carvalho (thanaracs)",
+    "job": "Student",
+    "github": "thanaracs",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Video 1",
+                "url": "url",
+                "thumb": "thumbnail do vídeo"
+            }
+        ],
+        "front-end":[
+            {
+                "title": "Video 2",
+                "url": "url",
+                "thumb": "thumbnail do vídeo"
+            }
+        ]
+    }
+
+}
